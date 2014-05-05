@@ -1,0 +1,34 @@
+[{
+  "folder": true,
+  "expanded": true,
+  "key": "10",
+  "title": "Torrents",
+  "children": [{
+    "folder": true,
+    "expanded": true,
+    "children": [{
+      "folder": true,
+      "expanded": true,
+      "children": [{
+        "key": "13",
+        "title": "Seven Samurai"
+      }, {
+        "key": "14",
+        "title": "Ichi"
+      }],
+      "key": "12",
+      "title": "Sub"
+    }],
+    "key": "11",
+    "title": "Movies"
+  }]
+}, {
+  "folder": true,
+  "children": [{
+    "folder": true,
+    "key": "21",
+    "title": "TV"
+  }],
+  "key": "20",
+  "title": "Media"
+}]
